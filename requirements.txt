@@ -1,7 +1,8 @@
-memair>=0.2.0
+memair>=0.2.1
 folium>=0.5.0
 pandas>=0.23.4
 matplotlib>=2.2.2
 pygal>=2.4.0
 jupyter>=1.0.0
 pyyaml>=5.1
+plotly>=3.9.0
